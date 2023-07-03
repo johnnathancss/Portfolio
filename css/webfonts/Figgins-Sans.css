@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Figgins Sans';
+    src: url('FigginsSans.woff2') format('woff2'),
+        url('FigginsSans.woff') format('woff'),
+        url('FigginsSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figgins Sans';
+    src: url('FigginsSans-Bold.woff2') format('woff2'),
+        url('FigginsSans-Bold.woff') format('woff'),
+        url('FigginsSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figgins Sans Extra';
+    src: url('FigginsSansExtraBold.woff2') format('woff2'),
+        url('FigginsSansExtraBold.woff') format('woff'),
+        url('FigginsSansExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
