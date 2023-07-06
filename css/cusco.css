@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Libre Franklin';
-    src: url('LibreFranklin-Bold.woff2') format('woff2'),
+    src: url('../fonts/Libre-Franklin/LibreFranklin-Bold.woff') format('woff2'),
         url('LibreFranklin-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
