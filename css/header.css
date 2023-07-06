@@ -116,7 +116,7 @@ header{
 		font-size: var(--parrafo);
 		font-family: var(--font-main);
         font-weight: 500;
-        
+        line-height: 2em;
         color: var(--color-primary);
         outline: none;
     }
