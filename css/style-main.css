@@ -94,6 +94,7 @@ h4{
     text-transform: uppercase;
     font-weight: bold;
     margin-bottom: 1rem;
+    color: var(--color-primary);
 }
 
 /*---- effect text ----*/
@@ -315,6 +316,7 @@ h4{
     position: relative;
 }
 
+.text-about p{ color: var(--color-primary);}
 .content-soft,
 .content-hard{
     display: flex;
