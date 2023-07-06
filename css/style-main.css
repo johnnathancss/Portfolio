@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Libre Franklin';
-    src: url('LibreFranklin-Bold.woff2') format('woff2'),
-        url('LibreFranklin-Bold.woff') format('woff');
+    src: url('/fonts/Libre-Franklin/LibreFranklin-Bold.woff2') format('woff2'),
+        url('/fonts/Libre-Franklin/LibreFranklin-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url('LibreFranklin-Medium.woff2') format('woff2'),
-        url('LibreFranklin-Medium.woff') format('woff');
+    src: url('/fonts/Libre-Franklin/LibreFranklin-Medium.woff2') format('woff2'),
+        url('/fonts/Libre-Franklin/LibreFranklin-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url('LibreFranklin-Regular.woff2') format('woff2'),
-        url('LibreFranklin-Regular.woff') format('woff');
+    src: url('/fonts/Libre-Franklin/LibreFranklin-Regular.woff') format('woff2'),
+        url('/fonts/Libre-Franklin/LibreFranklin-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -27,12 +27,13 @@
 
 @font-face {
     font-family: 'Libre Franklin';
-    src: url('LibreFranklin-Light.woff2') format('woff2'),
-        url('LibreFranklin-Light.woff') format('woff');
+    src: url('/fonts/Libre-Franklin/LibreFranklin-Light.woff2') format('woff2'),
+        url('/fonts/Libre-Franklin/LibreFranklin-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
+
 
 
 /* ----- ROOT ----- */
